@@ -1,6 +1,6 @@
 # My GitHub Profile
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Mohaji Coding Factory&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Seonghoo1217's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Mohaji%Coding%Factory%fontSize=80&animation=fadeIn&fontAlignY=38&desc=Seonghoo1217's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 # SKill
 
