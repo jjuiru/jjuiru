@@ -6,7 +6,6 @@
 
 # SKill
 <span>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badgec&logo=JavaScript&logoColor=white"/>
   </a>
 </span>
