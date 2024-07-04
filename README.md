@@ -9,5 +9,4 @@
 ![JavaScript](https://img.shields.io/badge/amazonec2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/amazonec2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/java-%23FC4C02?style=for-the-badge&logo=java&logoColor=white)
