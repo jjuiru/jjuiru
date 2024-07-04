@@ -4,5 +4,5 @@
 
 # SKill
 
-![JavaScript](https://img.shields.io/badge/MySql-%4479A1?style=for-the-badge&logo=MySql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/MySql-%234479A1?style=for-the-badge&logo=MySql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
