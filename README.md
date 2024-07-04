@@ -16,4 +16,5 @@
 
 ![JavaScript](https://img.shields.io/badge/amazonec2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) <!-- awsec2 -->
 ![JavaScript](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) <!-- docker -->
+![JavaScript](https://img.shields.io/badge/githubactions-%232496ED?style=for-the-badge&logo=githubactions&logoColor=white) <!-- githubActions -->
 
